@@ -1,0 +1,7 @@
+.venv/
+frontend/node_modules/
+app/__pycache__/
+.notes
+.env
+/__pycache__
+/app/*
